@@ -1,0 +1,3 @@
+[submodule "src/GNL"]
+	path = src/GNL
+	url = https://github.com/Jgm-h/GNL.git
