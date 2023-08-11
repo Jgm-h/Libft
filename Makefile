@@ -58,7 +58,7 @@ FTLST		=	ft_lstadd_back ft_lstadd_front ft_lstclear ft_lstdelone \
 FTPRT_DIR	=	ft_printf/
 FTPRT		=	countargs decimal dispatch ft_printf hexa hexastr putstrarg udecimal uitoa
 
-GNL_DIR	=	GetNextLine/
+GNL_DIR	=	GNL/
 GNL		=	get_next_line get_next_line_utils	
 
 SRC_FILES+=$(addprefix $(FTIS_DIR),$(FTIS))
